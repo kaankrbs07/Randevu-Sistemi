@@ -4,7 +4,7 @@ import java.sql.SQLException;
 
 // Veritabanı Bağlantısı
 public class DatabaseConnector {
-	public static final String url = "jdbc:sqlserver://DESKTOP:1433;databaseName=Randevu sistemi;integrated Security=true;encrypt=false;";
+	public static final String url = "jdbc:sqlserver://DESKTOP :1433;databaseName=Randevu sistemi;integrated Security=true;encrypt=false;";
 	public static final String username = "";
 	public static final String password = "";
 
